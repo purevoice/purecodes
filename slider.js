@@ -48,12 +48,17 @@ jQuery(function() {
 <div class="fluid_container">
     <!-- camera_slideshow camera_wrap-->
     <div class="camera_wrap" id="camera_wrap_1">
+        <div data-link="https://www.naijadailyfeed.com/2019/08/curvy-ghanaian-actress-moesha-boduong.html" data-thumb="https://1.bp.blogspot.com/-LDA6xvK6dHQ/XWBij1LqVJI/AAAAAAAAHwg/W7oVHQL5v7Q5VAHKiqFFjIJGhQA2hFMogCLcBGAs/s1600/5d5e6390da3ce.PNG" data-src="hhttps://1.bp.blogspot.com/-LDA6xvK6dHQ/XWBij1LqVJI/AAAAAAAAHwg/W7oVHQL5v7Q5VAHKiqFFjIJGhQA2hFMogCLcBGAs/s1600/5d5e6390da3ce.PNG">
+            <div class="camera_caption fadeFromBottom">
+                Nollywood Actress Tonto Dikeh puts her boobs on display in revealing black dress 
+            </div>
+        </div>
         <div data-link="https://www.naijadailyfeed.com/2019/04/nollywood-actress-tonto-dikeh-flaunts.html" data-thumb="https://3.bp.blogspot.com/-qscBaQMjSl0/XMCIYzqzxwI/AAAAAAAAHY8/EUU0eb86s_gQp5ICpGxe6A8_9ttlc4VSACLcBGAs/s640/PhotoEditor_20190424_165631086.jpg" data-src="https://3.bp.blogspot.com/-qscBaQMjSl0/XMCIYzqzxwI/AAAAAAAAHY8/EUU0eb86s_gQp5ICpGxe6A8_9ttlc4VSACLcBGAs/s640/PhotoEditor_20190424_165631086.jpg">
             <div class="camera_caption fadeFromBottom">
                 Nollywood Actress Tonto Dikeh puts her boobs on display in revealing black dress 
             </div>
         </div>
-        <div data-link="https://www.naijadailyfeed.com/2019/04/asuu-urges-aisha-buharis-plan-not-to.html" data-thumb="https://2.bp.blogspot.com/-T62ZVh64Iyw/XMCRdgURHYI/AAAAAAAAHZU/3I_x2UVDiKwCcYPnS5jA5hp1wT6AD6NnwCLcBGAs/s640/PhotoEditor_20190424_173915524.jpg" data-src="https://2.bp.blogspot.com/-T62ZVh64Iyw/XMCRdgURHYI/AAAAAAAAHZU/3I_x2UVDiKwCcYPnS5jA5hp1wT6AD6NnwCLcBGAs/s640/PhotoEditor_20190424_173915524.jpg">
+        <div data-link="https://www.naijadailyfeed.com/2020/01/toke-makinwa-shows-off-her-camel-toe.html" data-thumb="https://1.bp.blogspot.com/-HqFOGYIH2Kc/XjLoudlRNCI/AAAAAAAAHz4/mqzYw5YLtMQJGZIJmP_FXicIdaR2JaCiwCLcBGAsYHQ/s1600/5e31550a33ac9.PNG" data-src="https://1.bp.blogspot.com/-HqFOGYIH2Kc/XjLoudlRNCI/AAAAAAAAHz4/mqzYw5YLtMQJGZIJmP_FXicIdaR2JaCiwCLcBGAsYHQ/s1600/5e31550a33ac9.PNG">
             <div class="camera_caption fadeFromBottom">
                 ASUU urges Aisha Buhari not to build a private university in Buhari's name 
             </div>
